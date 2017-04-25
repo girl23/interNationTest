@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  internationTest
+
+  Created by wdwk on 2017/1/17.
+  Copyright © 2017年 wksc. All rights reserved.
+*/
+CFBundleDisplayName="国际化测试";
